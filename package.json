@@ -1,0 +1,7 @@
+{
+    "name": "node-experimental-modules-launcher",
+    "version": "0.0.1",
+    "bin": {
+        "nodem": "./bin/nodem"
+    }
+}
